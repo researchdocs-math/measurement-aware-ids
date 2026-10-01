@@ -1,0 +1,14 @@
+{
+  "capture": "Kitsune-Fuzzing",
+  "raw_packets": 2244139,
+  "non_ipv4_tcp_udp": 2028,
+  "fragmented_ipv4": 7072,
+  "all_communication_windows": 1299,
+  "mixed_labeled_windows": 12,
+  "eligible_windows": 1299,
+  "benign_windows": 34,
+  "attack_windows": 1265,
+  "retained_packets": 2235039,
+  "duration_seconds": 1737.2114207744598,
+  "seconds": 17.722303000002285
+}

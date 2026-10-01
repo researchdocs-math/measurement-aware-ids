@@ -1,0 +1,58 @@
+{
+  "working_title": "Intrusion Detection under Measurement Shift",
+  "central_question": "Can a logged collection configuration and replayable historical packet headers support intrusion-detector adaptation and prevent collection changes from being treated as traffic drift?",
+  "method": "Configuration-matched replay: re-export a historical labeled packet-header reservoir under the deployed collection settings; fit a compact detector with equal total weight per communication window; calibrate alert thresholds per communication window; compare current traffic with a reference exported under the same settings.",
+  "unit": "Canonical bidirectional IPv4 TCP/UDP five-tuple within a fixed 600-second capture-relative window. IP addresses and port numbers identify units but are excluded from model inputs.",
+  "measurement_grid": {
+    "retention_probability": [
+      1.0,
+      0.5,
+      0.1,
+      0.01
+    ],
+    "idle_timeout_seconds": [
+      5,
+      30,
+      60
+    ],
+    "active_timeout_seconds": [
+      30,
+      120,
+      600
+    ]
+  },
+  "reference_configuration": {
+    "retention_probability": 1.0,
+    "idle_timeout_seconds": 60,
+    "active_timeout_seconds": 600
+  },
+  "sampling_seeds": [
+    11,
+    23,
+    47,
+    83,
+    131
+  ],
+  "evaluation": [
+    "Leave-one-capture-out classification within each corpus",
+    "Disjoint five-tuple grouped holdout within each capture, with split seeds 7919, 104729, 130363",
+    "Common empirical-population drift control and disjoint-reference-pool stress test",
+    "All-opportunity and observed-only recall; sampling/timeout fragmentation; unit-weight ablation"
+  ],
+  "baselines": [
+    "Frozen reference detector",
+    "Inverse-probability count correction",
+    "Threshold-only replay calibration",
+    "Pooled measurement augmentation",
+    "Configuration-matched replay without opportunity weighting",
+    "Configuration-matched replay"
+  ],
+  "reporting": "Report every configured setting, including unsuccessful adaptations. Use paired contrasts and capture-level aggregation; do not count sampling seeds as independent real-world deployments. Distinguish empirical resampling from chronological field operation. No claims of line-rate deployment.",
+  "constraints": "Only genuine public packet captures and their published labels. No raw data row deletion as a proxy for packet sampling. No held-out target labels in model fitting or threshold selection. Public dataset labels are inherited, not asserted independently verified.",
+  "packet_label_rule": "A communication window is malicious if it contains any packet labeled malicious; a benign window contains only labeled benign packets. IoT-23 windows containing unmatched packets are excluded. This rule retains benign responses to malicious requests. Fixed before fitting any detector.",
+  "source_calibration_partition": "All windows sharing a canonical five-tuple within a source capture stay together in either training or calibration.",
+  "raw_capture_size_limit_bytes": 1073741824,
+  "data_scope": "Eight IoT-23 captures and four Kitsune captures with per-file raw capture size below 1 GiB, fixed before model evaluation. IoT-23 capture 44 is excluded by this size limit.",
+  "design_history": "The data eligibility, packet-label rule, measurement grid, and classifier baselines were fixed before classifier fitting. Grouped holdout and the common-population drift control were added after the initial held-out-capture and disjoint-pool analyses. This is an exploratory empirical study.",
+  "prediction": "Training uses two tree workers per process. Prediction uses a fixed serial tree-summation order to make strict threshold ties reproducible."
+}

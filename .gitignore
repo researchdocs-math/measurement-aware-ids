@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.nbc
+*.nbi
+data/raw/
+data/features/
+results/reproduced/
+.DS_Store

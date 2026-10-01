@@ -1,0 +1,289 @@
+regime,corpus,capture,method,alpha,recall,fpr
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Count correction,0.01,,0.0
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Count correction,0.05,,0.06635537361242687
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Frozen,0.01,,0.00011494252873563165
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Frozen,0.05,,0.06432615858948143
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Pooled + configuration,0.01,,0.010702553508196122
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Pooled + configuration,0.05,,0.032024182917599814
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Replay unweighted,0.01,,0.008749240833880316
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Replay unweighted,0.05,,0.03559745196892529
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Replay weighted,0.01,,0.012171276434599297
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Replay weighted,0.05,,0.0366270866192496
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Threshold replay,0.01,,0.006019836450870922
+Grouped holdout,IoT-23,CTU-Honeypot-Capture-5-1,Threshold replay,0.05,,0.042313511858966375
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Count correction,0.01,0.29570235582187787,0.010230414143957872
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Count correction,0.05,0.5912646874505737,0.02081840602715395
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Frozen,0.01,0.3950148137995861,0.0139187962417088
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Frozen,0.05,0.5907398228182379,0.02081417805488945
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Pooled + configuration,0.01,0.18872168606017595,0.006839628189668933
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Pooled + configuration,0.05,0.5249179817741234,0.021034753318064762
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Replay unweighted,0.01,0.18022343900772217,0.006502439329136228
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Replay unweighted,0.05,0.536408564746152,0.02143353177719544
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Replay weighted,0.01,0.1743625061684233,0.006219482013979967
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Replay weighted,0.05,0.5285599343926668,0.02114280149815759
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Threshold replay,0.01,0.12179790426350302,0.004272982544241552
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-1-1,Threshold replay,0.05,0.5712679291824464,0.022752328393211695
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Count correction,0.01,0.28782716049382717,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Count correction,0.05,0.708,0.00077777777777777
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Frozen,0.01,0.3483950617283951,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Frozen,0.05,0.7057037037037037,0.00077777777777777
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Pooled + configuration,0.01,0.5014567901234569,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Pooled + configuration,0.05,0.6643950617283951,0.005129356629356619
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Replay unweighted,0.01,0.5330123456790123,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Replay unweighted,0.05,0.6811604938271605,0.005339233172566493
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Replay weighted,0.01,0.5311851851851852,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Replay weighted,0.05,0.6644691358024691,0.0051910850244183465
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Threshold replay,0.01,0.19730864197530862,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-20-1,Threshold replay,0.05,0.6138271604938272,0.005117010950344273
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Count correction,0.01,0.2733918128654971,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Count correction,0.05,0.7250000000000001,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Frozen,0.01,0.351364522417154,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Frozen,0.05,0.7248050682261209,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Pooled + configuration,0.01,0.4793859649122807,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Pooled + configuration,0.05,0.6801656920077972,0.004906323738197893
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Replay unweighted,0.01,0.4858187134502924,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Replay unweighted,0.05,0.687280701754386,0.004906323738197893
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Replay weighted,0.01,0.48801169590643273,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Replay weighted,0.05,0.674317738791423,0.004906323738197893
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Threshold replay,0.01,0.24303118908382068,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-21-1,Threshold replay,0.05,0.6112573099415204,0.004906323738197893
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Count correction,0.01,0.39018705302512874,0.057295933721627924
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Count correction,0.05,0.5756259376943202,0.179211920754586
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Frozen,0.01,0.5065265376425111,0.07817031660536088
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Frozen,0.05,0.5755808376481066,0.16481249176382617
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Pooled + configuration,0.01,0.18407035451198156,0.015179740689537514
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Pooled + configuration,0.05,0.49982395871057783,0.07186844653420227
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Replay unweighted,0.01,0.2976887831334234,0.011357829793049926
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Replay unweighted,0.05,0.511035104597213,0.09095759411779461
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Replay weighted,0.01,0.2917483791913829,0.015007844788877277
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Replay weighted,0.05,0.5049270728957043,0.0879332483138956
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Threshold replay,0.01,0.22428815670147134,0.007229009427574072
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-3-1,Threshold replay,0.05,0.5653599457268997,0.13117886491724834
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Count correction,0.01,0.12612789897541915,0.003853431804820673
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Count correction,0.05,0.6235668020108727,0.03505057557937065
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Frozen,0.01,0.19031559110488808,0.004501028806584337
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Frozen,0.05,0.6164994810772044,0.03505057557937065
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Pooled + configuration,0.01,0.10905313915573263,0.006199887804850605
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Pooled + configuration,0.05,0.5179991528963194,0.028880983273233757
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Replay unweighted,0.01,0.1491392998444126,0.004511776746162776
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Replay unweighted,0.05,0.5148672505135539,0.029439554336714597
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Replay weighted,0.01,0.14200889126975422,0.004296829656215687
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Replay weighted,0.05,0.5187031627285767,0.028982009224622424
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Threshold replay,0.01,0.09119207959532769,0.003553700614475539
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-34-1,Threshold replay,0.05,0.4984187690259935,0.029526538342001855
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Count correction,0.01,,0.029403274053034705
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Count correction,0.05,,0.2402431505248147
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Frozen,0.01,,0.04968184080619642
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Frozen,0.05,,0.23633914691306077
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Pooled + configuration,0.01,,0.03445998531142121
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Pooled + configuration,0.05,,0.16984680159769136
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Replay unweighted,0.01,,0.044177832454096524
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Replay unweighted,0.05,,0.16019740943341823
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Replay weighted,0.01,,0.04239369693085324
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Replay weighted,0.05,,0.16023873729522353
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Threshold replay,0.01,,0.03289027738816026
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-42-1,Threshold replay,0.05,,0.15575995050559358
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Count correction,0.01,0.4162390976324632,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Count correction,0.05,0.6172688902931809,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Frozen,0.01,0.5227217486728917,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Frozen,0.05,0.6172688902931809,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Pooled + configuration,0.01,0.28985378893528346,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Pooled + configuration,0.05,0.554748313743278,0.008928571428571418
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Replay unweighted,0.01,0.29672487315406665,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Replay unweighted,0.05,0.5561540154697496,0.008928571428571418
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Replay weighted,0.01,0.29020779825498244,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Replay weighted,0.05,0.5480760796384099,0.008928571428571418
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Threshold replay,0.01,0.23089691164809079,0.0
+Grouped holdout,IoT-23,CTU-IoT-Malware-Capture-8-1,Threshold replay,0.05,0.5810110461842792,0.008928571428571418
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Count correction,0.01,0.17062625800650288,0.0
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Count correction,0.05,0.2084938639054444,0.0
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Frozen,0.01,0.2713358355410922,0.0
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Frozen,0.05,0.29575367692350585,0.0
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Pooled + configuration,0.01,0.23232704339987803,0.13666666666666666
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Pooled + configuration,0.05,0.2715316205983866,0.2558333333333333
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Replay unweighted,0.01,0.22608486704853797,0.16435185185185186
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Replay unweighted,0.05,0.2712044774459187,0.27935185185185185
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Replay weighted,0.01,0.2284961103424119,0.0962962962962963
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Replay weighted,0.05,0.2713203757808024,0.23749999999999996
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Threshold replay,0.01,0.19955293851119602,0.0
+Grouped holdout,Kitsune,Kitsune-Fuzzing,Threshold replay,0.05,0.2759742854897687,0.23749999999999996
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Count correction,0.01,0.005998560763814545,0.004722532291637629
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Count correction,0.05,0.032457948174898214,0.021108804848941082
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Frozen,0.01,0.036813565566066145,0.032789745239172746
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Frozen,0.05,0.06486252078952333,0.05089872904349045
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Pooled + configuration,0.01,0.013178939129176642,0.008301530911715531
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Pooled + configuration,0.05,0.05419314663500705,0.03968196637312777
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Replay unweighted,0.01,0.010551371472330833,0.006700866936847878
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Replay unweighted,0.05,0.0541004928200685,0.03980786139210667
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Replay weighted,0.01,0.01125117991209509,0.007582153440898935
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Replay weighted,0.05,0.054701755706694395,0.04127289038251112
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Threshold replay,0.01,0.005847766058131111,0.005021110222708665
+Grouped holdout,Kitsune,Kitsune-Mirai-Botnet,Threshold replay,0.05,0.047117790145734584,0.03706719958161577
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Count correction,0.01,0.34376408562360494,0.27314814814814814
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Count correction,0.05,0.34378491895693825,0.27314814814814814
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Frozen,0.01,0.34376408562360494,0.3969907407407407
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Frozen,0.05,0.3437974189569382,0.3969907407407407
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Pooled + configuration,0.01,0.405023522512467,0.059027777777777776
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Pooled + configuration,0.05,0.4904703577270767,0.13101851851851853
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Replay unweighted,0.01,0.405023522512467,0.21458333333333332
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Replay unweighted,0.05,0.4904703577270767,0.32337962962962963
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Replay weighted,0.01,0.405023522512467,0.17407407407407408
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Replay weighted,0.05,0.4904726725418915,0.26087962962962963
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Threshold replay,0.01,0.3155294567808156,0.23032407407407407
+Grouped holdout,Kitsune,Kitsune-OS-Scan,Threshold replay,0.05,0.3413424547968247,0.4048611111111111
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Count correction,0.01,0.5418768869040166,0.02206748571261589
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Count correction,0.05,0.5444542064916454,0.03816234624334912
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Frozen,0.01,0.5444542064916454,0.1352036134871236
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Frozen,0.05,0.5444542064916454,0.13671331490039296
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Pooled + configuration,0.01,0.5444542064916454,0.01445733451519371
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Pooled + configuration,0.05,0.5444542064916454,0.08898539048008669
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Replay unweighted,0.01,0.5437239157016693,0.026584942968742364
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Replay unweighted,0.05,0.5442433988310277,0.10260139624652641
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Replay weighted,0.01,0.5434948206272134,0.01738264771051654
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Replay weighted,0.05,0.5443014764420081,0.09080674495332158
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Threshold replay,0.01,0.4023419522239381,0.09289163852326819
+Grouped holdout,Kitsune,Kitsune-SYN-DoS,Threshold replay,0.05,0.4895095711346389,0.1608431330803558
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Count correction,0.01,,0.0
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Count correction,0.05,,0.17155797101449272
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Frozen,0.01,,0.0006340579710144866
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Frozen,0.05,,0.17149003623188402
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Pooled + configuration,0.01,,0.03516757246376809
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Pooled + configuration,0.05,,0.1276871980676328
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Replay unweighted,0.01,,0.03381642512077292
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Replay unweighted,0.05,,0.13379378019323665
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Replay weighted,0.01,,0.03511473429951688
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Replay weighted,0.05,,0.13522795893719802
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Threshold replay,0.01,,0.015828804347826075
+Held-out capture,IoT-23,CTU-Honeypot-Capture-5-1,Threshold replay,0.05,,0.12544535024154588
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Count correction,0.01,0.5697622222222223,0.02124166666666667
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Count correction,0.05,0.5883433333333333,0.021738333333333335
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Frozen,0.01,0.5815797222222222,0.021729166666666667
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Frozen,0.05,0.5883088888888889,0.021740833333333334
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Pooled + configuration,0.01,0.4211977777777778,0.015780000000000002
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Pooled + configuration,0.05,0.5208738888888889,0.019402500000000003
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Replay unweighted,0.01,0.42157916666666667,0.01579388888888889
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Replay unweighted,0.05,0.5195027777777779,0.019284722222222224
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Replay weighted,0.01,0.4203638888888889,0.01575055555555556
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Replay weighted,0.05,0.5132952777777777,0.01906388888888889
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Threshold replay,0.01,0.3169886111111111,0.0118925
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-1-1,Threshold replay,0.05,0.4643236111111111,0.01973
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Count correction,0.01,0.0637012012012012,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Count correction,0.05,0.966554054054054,0.00026061057334325995
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Frozen,0.01,0.06809309309309305,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Frozen,0.05,0.966554054054054,0.00026061057334325995
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Pooled + configuration,0.01,0.9492492492492492,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Pooled + configuration,0.05,0.9624624624624624,0.010387192851824264
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Replay unweighted,0.01,0.9286036036036036,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Replay unweighted,0.05,0.961936936936937,0.010552659882518398
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Replay weighted,0.01,0.9491366366366366,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Replay weighted,0.05,0.9622747747747746,0.010449242988334564
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Threshold replay,0.01,0.2791291291291291,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-20-1,Threshold replay,0.05,0.7141141141141141,0.010573343261355164
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Count correction,0.01,0.0603228228228228,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Count correction,0.05,0.9635135135135136,0.00023398128149747002
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Frozen,0.01,0.06452702702702699,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Frozen,0.05,0.9631381381381381,0.00023398128149747002
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Pooled + configuration,0.01,0.949361861861862,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Pooled + configuration,0.05,0.9603978978978979,0.00514758819294455
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Replay unweighted,0.01,0.9259759759759759,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Replay unweighted,0.05,0.9586336336336336,0.005123590112790964
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Replay weighted,0.01,0.9479729729729729,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Replay weighted,0.05,0.958596096096096,0.005121590272778164
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Threshold replay,0.01,0.2780405405405405,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-21-1,Threshold replay,0.05,0.7193693693693693,0.005123590112790964
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Count correction,0.01,0.11734,0.22228485745738905
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Count correction,0.05,0.5763250000000001,0.37822951068595073
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Frozen,0.01,0.2933225,0.25163041415176707
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Frozen,0.05,0.5763250000000001,0.3782219185362335
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Pooled + configuration,0.01,0.06366611111111112,0.19401169191056444
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Pooled + configuration,0.05,0.5762444444444444,0.3910621417454352
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Replay unweighted,0.01,0.08962583333333334,0.16966746384238693
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Replay unweighted,0.05,0.5762052777777779,0.3875450783889458
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Replay weighted,0.01,0.09153194444444444,0.17393425198344908
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Replay weighted,0.05,0.5761413888888889,0.38631325209733136
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Threshold replay,0.01,0.08936583333333332,0.1734217818775386
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-3-1,Threshold replay,0.05,0.5757330555555557,0.37948790950157535
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Count correction,0.01,0.10781583284855532,0.004818976279650399
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Count correction,0.05,0.5081951716114019,0.026123595505617915
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Frozen,0.01,0.1386816463059918,0.0049250936329587654
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Frozen,0.05,0.4871146015125072,0.026123595505617915
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Pooled + configuration,0.01,0.020557009889470585,0.0034519350811485295
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Pooled + configuration,0.05,0.3755659782819468,0.028052434456928788
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Replay unweighted,0.01,0.0192662885398487,0.004625468164793967
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Replay unweighted,0.05,0.3786443184021718,0.028046192259675348
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Replay weighted,0.01,0.02072425828970327,0.004294631710362009
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Replay weighted,0.05,0.38546029668411863,0.028751560549313302
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Threshold replay,0.01,0.04052865037812677,0.002871410736579241
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-34-1,Threshold replay,0.05,0.4231433003684313,0.03438826466916349
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Count correction,0.01,,0.15429635917751364
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Count correction,0.05,,0.29333616298811543
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Frozen,0.01,,0.15345217883418216
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Frozen,0.05,,0.2928126768534238
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Pooled + configuration,0.01,,0.20855970571590263
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Pooled + configuration,0.05,,0.29631044457020683
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Replay unweighted,0.01,,0.21464817958875682
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Replay unweighted,0.05,,0.29629315223542724
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Replay weighted,0.01,,0.21674369615795758
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Replay weighted,0.05,,0.29626013959630254
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Threshold replay,0.01,,0.11925108470099977
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-42-1,Threshold replay,0.05,,0.29413475444884607
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Count correction,0.01,0.17310896453030764,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Count correction,0.05,0.6054814474087703,0.001096491228070155
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Frozen,0.01,0.39088214249207803,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Frozen,0.05,0.605685883675764,0.001096491228070155
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Pooled + configuration,0.01,0.049156700398650686,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Pooled + configuration,0.05,0.40006899724011036,0.01578947368421051
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Replay unweighted,0.01,0.04210109373402837,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Replay unweighted,0.05,0.4638735561688644,0.01652858999350225
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Replay weighted,0.01,0.04386435653684959,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Replay weighted,0.05,0.47522999080036793,0.016276803118908358
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Threshold replay,0.01,0.12057651027292238,0.0
+Held-out capture,IoT-23,CTU-IoT-Malware-Capture-8-1,Threshold replay,0.05,0.538048144740877,0.01659356725146196
+Held-out capture,Kitsune,Kitsune-Fuzzing,Count correction,0.01,0.0,0.0
+Held-out capture,Kitsune,Kitsune-Fuzzing,Count correction,0.05,0.016890645586297735,0.021568627450980385
+Held-out capture,Kitsune,Kitsune-Fuzzing,Frozen,0.01,0.0,0.0
+Held-out capture,Kitsune,Kitsune-Fuzzing,Frozen,0.05,0.027962231005709215,0.0534313725490196
+Held-out capture,Kitsune,Kitsune-Fuzzing,Pooled + configuration,0.01,0.012929292929292867,0.0
+Held-out capture,Kitsune,Kitsune-Fuzzing,Pooled + configuration,0.05,0.0384716732542819,0.16617647058823531
+Held-out capture,Kitsune,Kitsune-Fuzzing,Replay unweighted,0.01,0.008331137461572206,0.013562091503267966
+Held-out capture,Kitsune,Kitsune-Fuzzing,Replay unweighted,0.05,0.03069828722002629,0.17222222222222225
+Held-out capture,Kitsune,Kitsune-Fuzzing,Replay weighted,0.01,0.010992534036012254,0.007189542483660125
+Held-out capture,Kitsune,Kitsune-Fuzzing,Replay weighted,0.05,0.026833552920509388,0.16650326797385623
+Held-out capture,Kitsune,Kitsune-Fuzzing,Threshold replay,0.01,0.0004611330698287011,0.022712418300653587
+Held-out capture,Kitsune,Kitsune-Fuzzing,Threshold replay,0.05,0.03107597716293362,0.2624183006535948
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Count correction,0.01,0.0,0.0
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Count correction,0.05,0.37393990416834205,0.3701525
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Frozen,0.01,0.0,0.0
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Frozen,0.05,0.3321836047446723,0.32697805555555554
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Pooled + configuration,0.01,0.0,0.0
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Pooled + configuration,0.05,0.3547346200241254,0.3543863888888889
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Replay unweighted,0.01,0.0,0.0
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Replay unweighted,0.05,0.2787293928427824,0.2731458333333333
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Replay weighted,0.01,0.0,0.0
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Replay weighted,0.05,0.29513344390832325,0.28958555555555554
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Threshold replay,0.01,0.0,0.0
+Held-out capture,Kitsune,Kitsune-Mirai-Botnet,Threshold replay,0.05,0.15492310012062724,0.1543363888888889
+Held-out capture,Kitsune,Kitsune-OS-Scan,Count correction,0.01,0.08755750000000001,0.03639846743295017
+Held-out capture,Kitsune,Kitsune-OS-Scan,Count correction,0.05,0.090125,0.03639846743295017
+Held-out capture,Kitsune,Kitsune-OS-Scan,Frozen,0.01,0.08756749999999999,0.13888888888888887
+Held-out capture,Kitsune,Kitsune-OS-Scan,Frozen,0.05,0.0875725,0.13888888888888887
+Held-out capture,Kitsune,Kitsune-OS-Scan,Pooled + configuration,0.01,0.4022975,0.019157088122605345
+Held-out capture,Kitsune,Kitsune-OS-Scan,Pooled + configuration,0.05,0.4049952777777778,0.16666666666666663
+Held-out capture,Kitsune,Kitsune-OS-Scan,Replay unweighted,0.01,0.17821166666666666,0.05823754789272029
+Held-out capture,Kitsune,Kitsune-OS-Scan,Replay unweighted,0.05,0.20076805555555557,0.18850574712643675
+Held-out capture,Kitsune,Kitsune-OS-Scan,Replay weighted,0.01,0.11945249999999999,0.01877394636015324
+Held-out capture,Kitsune,Kitsune-OS-Scan,Replay weighted,0.05,0.14005972222222224,0.1636015325670498
+Held-out capture,Kitsune,Kitsune-OS-Scan,Threshold replay,0.01,0.00234,0.05862068965517239
+Held-out capture,Kitsune,Kitsune-OS-Scan,Threshold replay,0.05,0.061851666666666666,0.24885057471264366
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Count correction,0.01,0.0,0.01304713804713802
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Count correction,0.05,0.002421362299162698,0.0428282828282828
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Frozen,0.01,0.0,0.05757575757575753
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Frozen,0.05,3.3944331296673335e-05,0.09025252525252521
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Pooled + configuration,0.01,0.13472505091649692,0.024562289562289508
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Pooled + configuration,0.05,0.3505996831862412,0.19397306397306394
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Replay unweighted,0.01,0.026295541977823023,0.03033670033670029
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Replay unweighted,0.05,0.18660330391491284,0.15872053872053868
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Replay weighted,0.01,0.019472731387191668,0.03744107744107739
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Replay weighted,0.05,0.042860375650599664,0.1338552188552188
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Threshold replay,0.01,0.0,0.02456228956228954
+Held-out capture,Kitsune,Kitsune-SYN-DoS,Threshold replay,0.05,0.0090631364562118,0.10136363636363631

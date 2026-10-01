@@ -1,0 +1,12 @@
+{
+  "packet_test_count": 10,
+  "packet_tests": "passed",
+  "independent_reproduction_tables": 30,
+  "independent_reproduction": "exact numeric agreement",
+  "cpu_gpu_drift_decisions": 1252800,
+  "cpu_gpu_decision_disagreements": 0,
+  "sampling_exports": 1728,
+  "selected_windows": 135359,
+  "source_captures": 12,
+  "sampling_timeout_configurations": 36
+}

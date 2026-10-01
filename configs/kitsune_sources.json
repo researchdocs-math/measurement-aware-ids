@@ -1,0 +1,74 @@
+[
+  {
+    "dataset": "Kitsune",
+    "capture": "Kitsune-Fuzzing",
+    "url": "https://www.kaggle.com/api/v1/datasets/download/ymirsky/network-attack-dataset-kitsune/Fuzzing%2FFuzzing_labels.csv",
+    "path": "data/raw/Kitsune-Fuzzing/Fuzzing_labels.csv.zip",
+    "sha256": "b4e1f91f39c40d6956ab210aaffdce3ef17fd136d838e43765e26e3be222c98f",
+    "bytes": 5361765,
+    "unpack_zip": true
+  },
+  {
+    "dataset": "Kitsune",
+    "capture": "Kitsune-Fuzzing",
+    "url": "https://www.kaggle.com/api/v1/datasets/download/ymirsky/network-attack-dataset-kitsune/Fuzzing%2FFuzzing_pcap.pcapng",
+    "path": "data/raw/Kitsune-Fuzzing/Fuzzing_pcap.pcapng.zip",
+    "sha256": "3c7ca6c8aa7ee13a5f5d43808e9185314aa17200ebb2cd1752d91ba06721941e",
+    "bytes": 185671458,
+    "unpack_zip": true
+  },
+  {
+    "dataset": "Kitsune",
+    "capture": "Kitsune-Mirai-Botnet",
+    "url": "https://www.kaggle.com/api/v1/datasets/download/ymirsky/network-attack-dataset-kitsune/Mirai%20Botnet%2FMirai_pcap.pcap",
+    "path": "data/raw/Kitsune-Mirai-Botnet/Mirai_pcap.pcap.zip",
+    "sha256": "1d9c807fcd9e0441e945498eb00ec130f810747c7cc1b74cf458564e9b9f7a84",
+    "bytes": 8633000,
+    "unpack_zip": true
+  },
+  {
+    "dataset": "Kitsune",
+    "capture": "Kitsune-Mirai-Botnet",
+    "url": "https://www.kaggle.com/api/v1/datasets/download/ymirsky/network-attack-dataset-kitsune/Mirai%20Botnet%2Fmirai_labels.csv",
+    "path": "data/raw/Kitsune-Mirai-Botnet/mirai_labels.csv.zip",
+    "sha256": "f460c4540bde959941325a583e527d6c82156e9ce46088539ed22e6957e5f0ac",
+    "bytes": 2415,
+    "unpack_zip": true
+  },
+  {
+    "dataset": "Kitsune",
+    "capture": "Kitsune-OS-Scan",
+    "url": "https://www.kaggle.com/api/v1/datasets/download/ymirsky/network-attack-dataset-kitsune/OS%20Scan%2FOS_Scan_labels.csv",
+    "path": "data/raw/Kitsune-OS-Scan/OS_Scan_labels.csv.zip",
+    "sha256": "dbb24336d673715cafcd212aa884f5e993e5aed47e9bb47c51eb244ec9579975",
+    "bytes": 4005117,
+    "unpack_zip": true
+  },
+  {
+    "dataset": "Kitsune",
+    "capture": "Kitsune-OS-Scan",
+    "url": "https://www.kaggle.com/api/v1/datasets/download/ymirsky/network-attack-dataset-kitsune/OS%20Scan%2FOS_Scan_pcap.pcapng",
+    "path": "data/raw/Kitsune-OS-Scan/OS_Scan_pcap.pcapng.zip",
+    "sha256": "baea59b1191e84c5533e89d1ddc9b33c0ab1cf2f913d46b3a8a458f472473ae5",
+    "bytes": 211906152,
+    "unpack_zip": true
+  },
+  {
+    "dataset": "Kitsune",
+    "capture": "Kitsune-SYN-DoS",
+    "url": "https://www.kaggle.com/api/v1/datasets/download/ymirsky/network-attack-dataset-kitsune/SYN%20DoS%2FSYN_DoS_labels.csv",
+    "path": "data/raw/Kitsune-SYN-DoS/SYN_DoS_labels.csv.zip",
+    "sha256": "74ba6e2fc3e81b083b8ca075c454400057421b3d7ec71a5ed089404b11498ed0",
+    "bytes": 6519834,
+    "unpack_zip": true
+  },
+  {
+    "dataset": "Kitsune",
+    "capture": "Kitsune-SYN-DoS",
+    "url": "https://www.kaggle.com/api/v1/datasets/download/ymirsky/network-attack-dataset-kitsune/SYN%20DoS%2FSYN_DoS_pcap.pcap",
+    "path": "data/raw/Kitsune-SYN-DoS/SYN_DoS_pcap.pcap.zip",
+    "sha256": "b387ea5fc81102d31cab9e15a76e24b2f5a34ac0bf0fa3b9f6bc62f15420d841",
+    "bytes": 335140867,
+    "unpack_zip": true
+  }
+]

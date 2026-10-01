@@ -1,0 +1,13 @@
+{
+  "capture": "Kitsune-OS-Scan",
+  "raw_packets": 1697851,
+  "non_ipv4_tcp_udp": 15,
+  "all_communication_windows": 65609,
+  "mixed_labeled_windows": 65547,
+  "eligible_windows": 65609,
+  "benign_windows": 29,
+  "attack_windows": 65580,
+  "retained_packets": 1697836,
+  "duration_seconds": 3132.7570559978485,
+  "seconds": 13.827646500008996
+}

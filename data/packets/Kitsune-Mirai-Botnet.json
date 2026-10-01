@@ -1,0 +1,13 @@
+{
+  "capture": "Kitsune-Mirai-Botnet",
+  "raw_packets": 764137,
+  "non_ipv4_tcp_udp": 610047,
+  "all_communication_windows": 34783,
+  "mixed_labeled_windows": 32,
+  "eligible_windows": 34783,
+  "benign_windows": 21519,
+  "attack_windows": 13264,
+  "retained_packets": 154090,
+  "duration_seconds": 7136.908565044403,
+  "seconds": 3.9750986250001006
+}

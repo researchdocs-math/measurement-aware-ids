@@ -1,0 +1,19 @@
+{
+  "capture": "CTU-Honeypot-Capture-5-1",
+  "raw_packets": 398313,
+  "matched_packets": 395055,
+  "non_ipv4_tcp_udp": 2886,
+  "unmatched_packets": 372,
+  "all_communication_windows": 1016,
+  "unmatched_windows": 280,
+  "mixed_labeled_windows": 0,
+  "eligible_windows": 736,
+  "benign_windows": 736,
+  "attack_windows": 0,
+  "retained_packets": 388349,
+  "duration_seconds": 19751.634689092636,
+  "label_records": {
+    "benign": 1203
+  },
+  "seconds": 3.6611947499914095
+}

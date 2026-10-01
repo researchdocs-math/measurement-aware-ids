@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this software when using these experiments."
+type: software
+title: "Intrusion Detection under Measurement Shift: Reproducible Experiments"
+version: 1.0.0
+date-released: 2026-10-01
+authors:
+  - family-names: Yavas
+    given-names: Cemil Emre
+    orcid: "https://orcid.org/0009-0006-9552-1731"
+    affiliation: "School of Computing, Georgia Southern University"
+license: MIT
+keywords:
+  - network intrusion detection
+  - packet sampling
+  - flow timeout
+  - measurement shift
+  - reproducibility
